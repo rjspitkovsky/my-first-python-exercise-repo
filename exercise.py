@@ -2,9 +2,9 @@
 ## Modify the variables so that all of the statements evaluate to True. ##
 ##########################################################################
 
-var1 =
-var6 =
-var2 =
+var1 = 34
+var6 = 35.1
+var2 = "python"
 var3 =
 var4 =
 var5 =
