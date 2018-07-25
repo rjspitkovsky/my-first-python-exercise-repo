@@ -5,9 +5,9 @@
 var1 = 34
 var6 = 35.1
 var2 = "python"
-var3 =
-var4 =
-var5 =
+var3 = [1,2,3,4,5]
+var4 = ("Hello", "World!", "Hello, Python!")
+var5 = {"happy": 7, "egg": "salad", "tuna": "fish"}
 
 ############################################
 ## Don't edit anything below this comment ##
